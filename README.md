@@ -1,10 +1,4 @@
 # Hello, I'm Noorullah! 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=noorullah-data&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/noorullah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
 ### 🛠 Data Processing Enthusiast | Python Engineer | 1+ Year Experience
 
 Welcome to my corner of GitHub! I am a passionate Data Processor focusing on building robust, scalable, and efficient data pipelines. With over a year of experience, I transform raw data into actionable insights, ensuring data quality and pipeline reliability [3, 4].
