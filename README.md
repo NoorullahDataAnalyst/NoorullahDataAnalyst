@@ -10,13 +10,12 @@ Welcome to my corner of GitHub! I am a passionate Data Processor focusing on bui
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge&logo=data-transfer-object&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=data-transfer-object&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-*   **Languages:** Python (Advanced), SQL
+*   **Languages:** Python (Medium), SQL , ML, Scikit
 *   **Data Processing:** Pandas, PySpark, Dask, Apache Airflow
 *   **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 *   **Tools/Cloud:** Git, Docker, AWS (S3, Glue, Redshift)
@@ -34,22 +33,11 @@ Welcome to my corner of GitHub! I am a passionate Data Processor focusing on bui
 
 ### 📂 Featured Data Projects
 
-*   **[Noorullah/Advanced-Data-Pipeline](https://github.com/noorullah)**: *Building an end-to-end data pipeline from API extraction to Snowflake using Airflow.*
-*   **[Noorullah/Realtime-Analytics](https://github.com/noorullah)**: *Streaming data processing with Apache Kafka and Spark Streaming.*
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=noorullah-data&show_icons=true&theme=dracula&count_private=true" alt="Noorullah's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorullah-data&theme=dracula&layout=compact" alt="Top Languages" />
-</p>
-
+*   **[Noorullah/Medium-Data-Pipeline](https://github.com/noorullah)**: *Building an end-to-end data pipeline from API extraction to Snowflake using Airflow.*
+*   **[Noorullah/Realtime-Analytics](https://github.com/noorullah)**: *Streaming data processing with python and Scikit.*
 ---
 
 ### ✉️ Let's Connect
-*   **LinkedIn:** [linkedin.com/in/noorullah](https://linkedin.com/in/noorullah)
-*   **Email:** noorullah.data@email.com (Placeholder)
+*   **LinkedIn:** [linkedin.com/in/noorullah](https://linkedin.com/in/Noorullah Soomro)
+*   **Email:** noorullahsoomro138@email.com (Placeholder)
 
-*Updated as of March 2026*
