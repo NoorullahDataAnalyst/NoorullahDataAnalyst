@@ -38,6 +38,6 @@ Welcome to my corner of GitHub! I am a passionate Data Processor focusing on bui
 ---
 
 ### ✉️ Let's Connect
-*   **LinkedIn:** [linkedin.com/in/noorullah](https://linkedin.com/in/Noorullah Soomro)
+*   **LinkedIn:** [linkedin.com/in/noorullah](https://linkedin.com/in/NoorullahSoomro)
 *   **Email:** noorullahsoomro138@email.com (Placeholder)
 
