@@ -69,7 +69,10 @@ Welcome to my corner of GitHub! I am a passionate Data Processor focusing on bui
 - Core Goal: Combines statistical analysis with professional data storytelling.
 - Technical Focus: Uses Seaborn and Matplotlib to visualize complex data distributions.
 - Outcome: Transforms raw data into clear, high-impact insights for business decision-making.
-
+### 📌[K-Means-Clustering-with-Real-Sales-Data-of-Amazon](https://github.com/NoorullahDataAnalyst/K-Means-Clustering-with-Real-Sales-Data-of-Amazon.git)
+- The Goal: Transform 50 Amazon orders into 3 distinct segments (Low, Medium, VVIP) to replace manual sorting with automated    machine learning insights.
+- The Core: Implement K-Means ($K=3$) to anchor data around two key financial means: $125 (20 budget orders) and $375 (20       VVIP orders).
+- The Outcome: Generate a visualization map revealing a polarized market, identifying exactly where 80% of revenue is           concentrated for targeted marketing.
 ---
 
 ### 📫 Connect with Me
